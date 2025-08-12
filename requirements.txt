@@ -1,0 +1,4 @@
+coqui-tts
+ffmpeg
+openai-whisper
+tqdm
