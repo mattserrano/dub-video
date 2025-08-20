@@ -7,7 +7,6 @@ Uses:
 - ffmpeg (audio/video processing)
 - OpenAI Whisper (speech-to-text)
 - Coqui TTS XTTS (text-to-speech)
-- SadTalker (face animation dubbing)
 """
 
 import argparse
